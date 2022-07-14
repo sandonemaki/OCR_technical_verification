@@ -1,0 +1,6 @@
+# secretfile
+secret.json
+secret_read.json
+
+# 不要なファイル
+ocr_quickstart.rb
